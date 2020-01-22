@@ -7,7 +7,7 @@
 
 ~~~
 ##2.- Creamos la clase que queremos probar, en este caso será "Subscripcion":
-![Texto alternativo](/junit1.png)
+![Texto alternativo](junit1.png)
 ~~~
 
 ~~~
